@@ -17,6 +17,7 @@
 - https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
 
 # General strategies
+- https://www.math.utah.edu/~alfeld/math/polya.html - G. Polya, How to Solve It
 - https://fs.blog/first-principles/
 
 # Common mistakes
