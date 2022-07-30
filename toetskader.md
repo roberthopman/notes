@@ -1,6 +1,6 @@
 # Toetskader
 
-[Bron](https://www.adviescollegeicttoetsing.nl/onze-werkwijze/toetskader/het-toetskader)
+[Bron: Adviescollege ICT-toetsing (zoeken naar toetskader)](https://www.adviescollegeicttoetsing.nl/)
 
 Het Adviescollege ICT-toetsing oordeelt over de slaagkans van ICT-projecten of -programma’s binnen het Rijk en geeft adviezen ter verbetering.
 
