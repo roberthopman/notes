@@ -1,5 +1,9 @@
 # Notes & Summaries
 
+## EN
+- Debugging
+- Thinking in bets
+
 ## NL
 - Agile
 - Beelden van organisatie 
@@ -7,6 +11,3 @@
 - Management van professionele organisaties
 - [ITIL4](https://nl.wikipedia.org/wiki/ITIL_4)
 
-## EN
-- Debugging
-- Thinking in bets
