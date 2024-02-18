@@ -15,9 +15,11 @@
 - https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/
 - http://www.catb.org/~esr/faqs/smart-questions.html
 - https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
+- https://uchicago-cs.github.io/debugging-guide/
 
 # General strategies
 - https://www.math.utah.edu/~alfeld/math/polya.html - G. Polya, How to Solve It
+- https://ryanstutorials.net/problem-solving-skills/
 - https://fs.blog/first-principles/
 
 # Common mistakes
