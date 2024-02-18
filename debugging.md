@@ -17,6 +17,8 @@
 - https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
 - https://uchicago-cs.github.io/debugging-guide/
 - https://ericlippert.com/2014/03/05/how-to-debug-small-programs/
+- https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/
+- https://blog.regehr.org/archives/849
 
 # General strategies
 - https://www.math.utah.edu/~alfeld/math/polya.html - G. Polya, How to Solve It
